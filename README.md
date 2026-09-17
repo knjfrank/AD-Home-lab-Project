@@ -9,9 +9,6 @@ A self-built Active Directory home lab simulating a small corporate network — 
 <img width="3000" height="1520" alt="image" src="https://github.com/user-attachments/assets/809eb47c-1976-492b-bc31-2efcfa190cbe" />
 
 
-<img width="3000" height="1520" alt="image" src="https://github.com/user-attachments/assets/ab2ac2e2-3536-4da7-b8aa-9f506f6cd2c7" />
-
-
 | Component | Role |
 |---|---|
 | **DC** (Windows Server 2025) | Domain Controller — AD DS, DHCP, DNS, RRAS/NAT |
